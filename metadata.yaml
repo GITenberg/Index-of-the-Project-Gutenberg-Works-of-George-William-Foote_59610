@@ -1,5 +1,8 @@
 _repo: Index-of-the-Project-Gutenberg-Works-of-George-William-Foote_59610
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59610-h/images/cover.jpg
 creator:
   author:
     agent_name: Foote, G. W. (George William)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59610#Index-of-the-Project-Gutenberg-Works-of-George-William-Foote
 gutenberg_issued: '2019-05-26'
 gutenberg_type: Text
 identifiers:
